@@ -51,3 +51,11 @@ Int -> 4bytes ou 32bits
 Char -> 1byte ou 8bits
 Float -> 4bytes ou 32bits
 Double -> 8bytes ou 64bits
+
+
+## Mais Notações
+
+O período é a quantidade de tempo gasta para realizar um ciclo de clock completo (ex.250ps)
+A frequência ou taxa de relógio (clock rate) (ex. 4GHz) corresponde ao inverso do período.
+
+2Ghz = 2x10^9 ciclos/s
